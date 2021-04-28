@@ -1,0 +1,23 @@
+
+A:Link{ Color: black; Text-decoration: underline}
+A:Hover{ Color: black; Text-decoration: none}
+A:Visited{ Color: black; Text-decoration: underline}
+ td, body {font-family: verdana, arial, helvetica; font-size:11px;}
+/* 11px*/
+
+body {
+margin: 0;
+padding: 0;
+}
+
+img {
+border: none
+}
+
+td{
+border: 1px;
+border-color: black;
+border-style: ridge;
+} 
+
+
